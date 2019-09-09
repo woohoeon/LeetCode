@@ -1,6 +1,8 @@
-## Sum of Left Leaves
+## Sum of Left Leaves (왼쪽 잎의 합)
 
 Find the sum of all left leaves in a given binary tree.
+
+주어진 이진 트리에서 모든 왼쪽 잎의 합을 찾으십시오.
 
 Example:
 
