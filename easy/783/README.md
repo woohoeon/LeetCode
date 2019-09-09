@@ -1,6 +1,8 @@
-## Minimum Distance Between BST Nodes
+## Minimum Distance Between BST Nodes (BST 노드 사이의 최소 거리)
 
 Given a Binary Search Tree (BST) with the root node root, return the minimum difference between the values of any two different nodes in the tree.
+
+루트 노드 루트가있는 BST (Binary Search Tree)가 주어지면 트리에있는 두 개의 다른 노드 값 사이의 최소 차이를 반환하십시오.
 
 Example :
 
