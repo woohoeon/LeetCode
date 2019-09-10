@@ -28,3 +28,8 @@ https://leetcode.com
 
  - [link](https://leetcode.com/problems/reverse-integer/)
  - [solution](https://github.com/woohoeon/LeetCode/tree/master/easy/7)
+ 
+### 414. Third Maximum Number (세 번째 최대 수)
+
+ - [link](https://leetcode.com/problems/third-maximum-number/)
+ - [solution](https://github.com/woohoeon/LeetCode/tree/master/easy/414)
