@@ -23,4 +23,8 @@ https://leetcode.com
 
  - [link](https://leetcode.com/problems/buddy-strings/)
  - [solution](https://github.com/woohoeon/LeetCode/tree/master/easy/859)
+ 
+### 7. Reverse Integer (역 정수)
 
+ - [link](https://leetcode.com/problems/reverse-integer/)
+ - [solution](https://github.com/woohoeon/LeetCode/tree/master/easy/7)
