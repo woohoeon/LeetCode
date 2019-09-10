@@ -18,4 +18,9 @@ https://leetcode.com
 
  - [link](https://leetcode.com/problems/non-decreasing-array/)
  - [solution](https://github.com/woohoeon/LeetCode/tree/master/easy/665)
+ 
+### 859. Buddy Strings (두 개의 문자만 바꾸어 A와 B가 같은지 확인하기)
+
+ - [link](https://leetcode.com/problems/buddy-strings/)
+ - [solution](https://github.com/woohoeon/LeetCode/tree/master/easy/859)
 
