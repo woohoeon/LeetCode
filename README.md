@@ -11,6 +11,7 @@ https://leetcode.com
 | 665 | [Non-decreasing Array (감소하지 않는 Array)](https://leetcode.com/problems/non-decreasing-array/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/665) | 19% |Easy |
 | 771 | [Jewels and Stones (돌에서 보석찾기)](https://leetcode.com/problems/jewels-and-stones/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/771) | 83% | Easy |
 | 783 | [Minimum Distance Between BST Nodes (BST 노드 사이의 최소 거리)](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/783) | 50% |Easy |
+| 807 | [Max Increase to Keep City Skyline (도시 스카이 라인을 유지하기위한 최대 증가)](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/medium/807) | 82% |Medium |
 | 859 | [Buddy Strings (두 개의 문자만 바꾸어 A와 B가 같은지 확인하기)](https://leetcode.com/problems/buddy-strings/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/859) | 27% |Easy |
 | 1108 | [Defanging an IP Address (IP 주소 분리)](https://leetcode.com/problems/defanging-an-ip-address/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/1108) | 84% |Easy |
 
