@@ -16,5 +16,10 @@ https://leetcode.com
 | 938 | [Range Sum of BST (BST의 범위 합)](https://leetcode.com/problems/range-sum-of-bst/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/938) | 78% |Easy |
 | 1108 | [Defanging an IP Address (IP 주소 분리)](https://leetcode.com/problems/defanging-an-ip-address/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/1108) | 84% |Easy |
 
+# Other
+
+| Title | Solution |
+|:---|:---:|
+| [MissingInteger (배열에 포함되지 않은 가장 작은 정수 찾기)](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) | [Javascript](https://github.com/woohoeon/LeetCode/blob/master/other/MissingInteger.md) |
 
 
