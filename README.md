@@ -7,6 +7,7 @@ https://leetcode.com
 |---:|:---|:---:|:---:|:---:|
 | 7 | [Reverse Integer (역 정수)](https://leetcode.com/problems/reverse-integer/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/7) | 25% |Easy |
 | 168 | [Excel Sheet Column Title (엑셀 시트 열 제목)](https://leetcode.com/problems/excel-sheet-column-title/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/168) | 29% |Easy |
+| 204 | [Count Primes (소수 카운트)](https://leetcode.com/problems/count-primes/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/204) | 30% |Easy |
 | 404 | [Sum of Left Leaves (왼쪽 잎의 합)](https://leetcode.com/problems/sum-of-left-leaves/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/404) | 49% |Easy |
 | 414 | [Third Maximum Number (세 번째 최대 수)](https://leetcode.com/problems/third-maximum-number/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/414) | 29% |Easy |
 | 665 | [Non-decreasing Array (감소하지 않는 Array)](https://leetcode.com/problems/non-decreasing-array/) | [Javascript](https://github.com/woohoeon/LeetCode/tree/master/easy/665) | 19% |Easy |
